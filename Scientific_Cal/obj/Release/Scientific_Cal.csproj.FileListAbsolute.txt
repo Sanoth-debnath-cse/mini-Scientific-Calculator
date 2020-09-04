@@ -1,0 +1,9 @@
+D:\c#\C# code\Scientific_Cal\Scientific_Cal\bin\Release\Scientific_Cal.exe.config
+D:\c#\C# code\Scientific_Cal\Scientific_Cal\bin\Release\Scientific_Cal.exe
+D:\c#\C# code\Scientific_Cal\Scientific_Cal\bin\Release\Scientific_Cal.pdb
+D:\c#\C# code\Scientific_Cal\Scientific_Cal\obj\Release\Scientific_Cal.Form1.resources
+D:\c#\C# code\Scientific_Cal\Scientific_Cal\obj\Release\Scientific_Cal.Properties.Resources.resources
+D:\c#\C# code\Scientific_Cal\Scientific_Cal\obj\Release\Scientific_Cal.csproj.GenerateResource.Cache
+D:\c#\C# code\Scientific_Cal\Scientific_Cal\obj\Release\Scientific_Cal.exe
+D:\c#\C# code\Scientific_Cal\Scientific_Cal\obj\Release\Scientific_Cal.pdb
+D:\c#\C# code\Scientific_Cal\Scientific_Cal\obj\Release\Scientific_Cal.csprojResolveAssemblyReference.cache
